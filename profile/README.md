@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Aquí llamamos a tu banner propio e indestructible -->
-  <img src="assets/neon_banner.svg" alt="NEURAL_ARCH_LABS" width="100%" />
+  <img src="./assets/neon_banner.svg" alt="NEURAL_ARCH_LABS" width="100%" />
 
   <br/>
   <p>
