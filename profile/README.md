@@ -1,42 +1,57 @@
 <div align="center">
-  <!-- Banner Pro con corrección de URL -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=818cf8&height=200&section=header&text=Neural%20Arch%20Labs&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Neural Arch Labs Banner" />
+  <!-- Banner Animado Estilo Neón/Retro -->
+  <img src="https://capsule-render.vercel.app/api?type=retro&color=818cf8&height=200&section=header&text=NEURAL_ARCH_LABS&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI_SOVEREIGNTY_LABS&descSize=20&descAlignY=60" width="100%" alt="NEURAL_ARCH_LABS" />
 
   <br/>
-  <h3>✨ Tecnología de Alto Rendimiento con Alma ✨</h3>
-  <p><i>Ingeniería soberana, privacidad innegociable e innovación con propósito.</i></p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Privacy_First-818cf8?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/OS-Windows_Native-c084fc?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/License-AGPLv3-4c1d95?style=for-the-badge" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/CORE-INFRASTRUCTURE-818cf8?style=for-the-badge&labelColor=0b0e14" />
+    <img src="https://img.shields.io/badge/SOVEREIGNTY-Lvl_10-c084fc?style=for-the-badge&labelColor=0b0e14" />
+    <img src="https://img.shields.io/badge/STATUS-PRIVATE_LAB-4c1d95?style=for-the-badge&labelColor=0b0e14" />
   </p>
+
+  <h2 align="center">── Ingeniería de alto rendimiento con alma y silicio ──</h2>
 </div>
 
 <br/>
 
+### 🏛️ El Manifiesto del Laboratorio
+
+En **NEURAL_ARCH_LABS**, rechazamos la tecnología genérica y masificada. Creemos en la **ingeniería de autor**: soluciones diseñadas con propósito, carácter y una soberanía técnica innegociable. No construimos herramientas frías; diseñamos infraestructura digital que respeta la identidad y la libertad del usuario.
+
 ---
 
-### 🏛️ Sobre el Laboratorio
+### 🚀 Desarrollo Activo
 
-En **Neural Arch Labs**, creemos que el software es una forma de arte técnico. No construimos herramientas frías; diseñamos **infraestructura digital con carácter**. Nuestra misión es devolver la soberanía a los usuarios mediante soluciones que se ejecutan donde pertenecen: bajo el control total de quien las utiliza.
+#### [🔍 searXena](https://github.com/NeuralArchLabs/searXena)
+Nuestro metabuscador estrella. Un sistema ágil, privado y 100% nativo para Windows. Diseñado para ser la fuente de datos en tiempo real de los Agentes de IA, manteniendo siempre al usuario como el único dueño de su curiosidad.
 
-<br/>
+---
+
+### 🛸 Filosofía Operativa
+- **Soberanía Local:** El poder reside en el hardware del usuario. No dependemos de nubes ajenas.
+- **Alma en el Código:** Cada línea tiene una intención estética y funcional. Buscamos la perfección técnica.
+- **Ecosistema Independiente:** Operamos de forma hermética para preservar la pureza de nuestra visión. **No estamos abiertos a contribuciones externas ni a nuevos colaboradores en el código base por el momento.**
+
+---
+
+### 💼 Servicios y Proyectos a Medida
+
+Aunque nuestro laboratorio es privado, estamos **abiertos a ofertas de proyectos estratégicos y trabajos personalizados** que requieran un nivel superior de arquitectura, privacidad y rendimiento.
 
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
       <td width="33%" align="center" style="border: none;">
-        <b>🚀 Soberanía Local</b><br/>
-        Software que vive en tu hardware.
+        <b>🏗️ Arquitecturas Soberanas</b><br/>
+        Sistemas robustos que no dependen de terceros.
       </td>
       <td width="33%" align="center" style="border: none;">
-        <b>🛡️ Privacidad Radical</b><br/>
-        Protección de datos por diseño.
+        <b>🛡️ Ingeniería de Privacidad</b><br/>
+        Blindaje de datos y anonimización de alto nivel.
       </td>
       <td width="33%" align="center" style="border: none;">
-        <b>⚡ Alto Rendimiento</b><br/>
-        Optimización directa al Kernel.
+        <b>🤖 Infraestructura de IA</b><br/>
+        Motores RAG y búsqueda avanzada para agentes.
       </td>
     </tr>
   </table>
@@ -44,29 +59,13 @@ En **Neural Arch Labs**, creemos que el software es una forma de arte técnico. 
 
 <br/>
 
----
-
-### 💎 Proyecto Insignia: [searXena](https://github.com/NeuralArchLabs/searXena)
-
-**searXena** es un metabuscador 100% nativo para Windows, diseñado para alimentar agentes de IA con datos limpios y estructurados sin comprometer la identidad del usuario. Es el reflejo de nuestra filosofía: **potente, privado y elegante.**
-
----
-
-### 💼 Servicios y Proyectos a Medida
-
-Operamos como un centro de desarrollo independiente con un **ciclo de desarrollo privado** (no aceptamos contribuciones externas por ahora). Sin embargo, estamos **abiertos a colaborar en proyectos estratégicos y trabajos personalizados.**
-
-#### ¿Buscas una solución con nuestro sello?
-*   **Consultoría Técnica:** Arquitecturas de alto rendimiento y optimización.
-*   **Desarrollo Premium:** Creación de herramientas exclusivas con enfoque en privacidad.
-*   **Integraciones IA:** Conectamos tus flujos de trabajo con el internet de forma segura.
-
-> 📩 **¿Tienes una propuesta?** Estamos listos para escuchar proyectos que desafíen lo convencional. Contáctanos enviando un mensaje directo a través de nuestra red oficial.
+> 📩 **¿Tienes una propuesta?** Estamos listos para escuchar proyectos que desafíen lo convencional y requieran un enfoque artesanal de alta tecnología. Contáctanos a través de nuestro perfil oficial para discutir colaboraciones privadas.
 
 ---
 
 <div align="center">
-  <p><i>Neural Arch Labs — 2026. Todos los derechos reservados.</i></p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" />
+  <p><i>NEURAL_ARCH_LABS // 2026 // ESTABLECIDO EN EL KERNEL</i></p>
   <a href="https://github.com/NeuralArchLabs/searXena">
     <img src="https://img.shields.io/github/stars/NeuralArchLabs/searXena?style=social" />
   </a>
