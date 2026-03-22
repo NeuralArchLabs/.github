@@ -22,7 +22,7 @@
 
 ## 🏛️ 关于实验室 (About the Lab)
 
-在 **Neural Arch Labs**，我们拒绝平庸的技术。我们坚信**署名工程 (Signature Engineering)**：以个性化和不可妥协的技术主权设计的解决方案。我们不制造冰冷的工具；我们设计在AI时代尊重用户隐私和身份的数字基础设施。
+**Neural Arch Labs** 由 Jaime Martínez 创立，旨在探索人工智能驱动的软件开发以及本地大型语言模型 (LLM) 的集成。我们拒绝平庸的技术。我们坚信**署名工程 (Signature Engineering)**：以个性化和不可妥协的技术主权设计的解决方案，将绝对控制权交还给用户。我们不制造冰冷的工具；我们设计在AI时代尊重隐私和身份的数字基础设施。
 
 ---
 
@@ -97,7 +97,7 @@
 <br/>
 
 <div align="center">
-  <p><code>[ NEURAL_ARCH_LABS // EST. 2026 // KERNEL_LEVEL ]</code></p>
+  <p><code>[ NEURAL_ARCH_LABS // EST. 2026 ]</code></p>
   <a href="https://github.com/NeuralArchLabs/searXena">
     <img src="https://img.shields.io/github/stars/NeuralArchLabs/searXena?style=social" />
   </a>
