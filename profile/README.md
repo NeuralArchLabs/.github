@@ -22,7 +22,7 @@
 
 ## 🏛️ Sobre el Laboratorio
 
-En **Neural Arch Labs**, rechazamos la tecnología genérica. Creemos en la **ingeniería de autor**: soluciones diseñadas con carácter y una soberanía técnica innegociable. No construimos herramientas frías; diseñamos infraestructura digital que respeta la privacidad y la identidad del usuario en la era de la IA.
+Fundado por Jaime Martínez para explorar el desarrollo de software impulsado por IA y la integración de modelos de lenguaje (LLMs) locales, en **Neural Arch Labs** rechazamos la tecnología genérica. Creemos en la **ingeniería de autor**: soluciones diseñadas con carácter y una soberanía técnica innegociable para otorgarle el control absoluto al usuario. No construimos herramientas frías; diseñamos infraestructura digital que respeta la privacidad y la identidad en la era de la IA.
 
 ---
 
@@ -97,7 +97,7 @@ Si te interesa nuestro enfoque tecnológico y quieres **trabajar con nosotros o 
 <br/>
 
 <div align="center">
-  <p><code>[ NEURAL_ARCH_LABS // EST. 2026 // KERNEL_LEVEL ]</code></p>
+  <p><code>[ NEURAL_ARCH_LABS // EST. 2026 ]</code></p>
   <a href="https://github.com/NeuralArchLabs/searXena">
     <img src="https://img.shields.io/github/stars/NeuralArchLabs/searXena?style=social" />
   </a>
