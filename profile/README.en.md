@@ -54,6 +54,7 @@ Our flagship metasearch engine. An agile, private, and 100% native Windows syste
 <br/>
 An AI agent and assistant aimed at the general public. Designed as a friendly, easy-to-install alternative to complex tools like OpenClaw, making it ideal for non-tech-savvy users.
 <ul>
+  <li><b>Guided Onboarding & Deep Personalization:</b> Features a step-by-step initial setup process. From day one, you can feed the assistant all the information you want it to know about you, achieving absolute personalization so it understands your exact context, needs, and how to help you in a highly specific way.</li>
   <li><b>Autonomy & Operating Modes:</b> Features a <b>Chat Mode</b> and an <b>Agent Mode</b> tailored for different types of assistance, both with native system tool execution. Choose between a <i>fully autonomous mode</i>, a <i>safe mode</i> (requires user authorization before execution), and the creation of <b>scheduled tasks</b> for complete autonomy.</li>
   <li><b>Context Library:</b> A module to create, store, and access protocols and documents, making them readily available to reference, review, improve, or apply with the assistant at any time.</li>
   <li><b>Voice & 24/7 Connectivity:</b> Includes native voice recognition <i>out of the box</i> (via Vosk) in English and Spanish for voice dictation and messages. It easily links with Telegram (via BotFather) to run 24/7 and maintain a permanent, efficient communication channel.</li>
