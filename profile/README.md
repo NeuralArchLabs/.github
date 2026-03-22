@@ -1,13 +1,13 @@
 <div align="center">
   <!-- Animación de Terminal Estable y Cyberpunk -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=48&pause=2000&color=818CF8&center=true&vCenter=true&width=800&height=100&lines=NEURAL_ARCH_LABS;SOUL_AND_CODE;PRIVACY_FIRST;HUMANS_IN_THE_LOOP;AI_OPTIMIZED_FOR_HUMANS" alt="NEURAL ARCH LABS" />
+  <img src="https://raw.githubusercontent.com/NeuralArchLabs/.github/b822e90f038ceb04bde7c4c8d8965833cde73c20/assets/neon_banner.svg" />
 
   <p><i>Ingeniería de alto rendimiento con propósito y soberanía técnica.</i></p>
 
   <p>
     <img src="https://img.shields.io/badge/CORE-INFRASTRUCTURE-818cf8?style=for-the-badge&labelColor=0b0e14" />
     <img src="https://img.shields.io/badge/OS-WINDOWS_NATIVE-c084fc?style=for-the-badge&labelColor=0b0e14" />
-    <img src="https://img.shields.io/badge/STATUS-PRIVATE_LAB-4c1d95?style=for-the-badge&labelColor=0b0e14" />
+    <img src="https://img.shields.io/badge/STATUS-OPERATIVE_LAB-4c1d95?style=for-the-badge&labelColor=0b0e14" />
   </p>
 </div>
 
@@ -35,7 +35,7 @@ Nuestro metabuscador estrella. Un sistema ágil, privado y 100% nativo para Wind
 <ul>
   <li><b>Soberanía Local:</b> El poder reside en el hardware del usuario.</li>
   <li><b>Alma en el Código:</b> Cada línea tiene una intención técnica. Buscamos la eficiencia y la estabilidad.</li>
-  <li><b>Ecosistema Independiente:</b> Operamos de forma hermética para preservar la pureza de nuestra visión. <b>No estamos abiertos a contribuciones externas en el código base.</b></li>
+  <li><b>Ecosistema Independiente:</b> Operamos de forma hermética para preservar la pureza de nuestra visión. <b>No estamos abiertos a contribuciones externas en el código base por el momento pero mantenemos nuestro código abierto para su análisis.</b></li>
 </ul>
 
 ---
