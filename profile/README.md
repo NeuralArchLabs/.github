@@ -29,6 +29,10 @@ En **Neural Arch Labs**, rechazamos la tecnología genérica. Creemos en la **in
 ### 🚀 Desarrollo Activo y Proyectos Internos
 
 #### [🔍 searXena](https://github.com/NeuralArchLabs/searXena)
+<div align="center">
+  <img src="../assets/searXena.gif" alt="searXena Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
+</div>
+<br/>
 Nuestro metabuscador estrella. Un sistema ágil, privado y 100% nativo para Windows. Desarrollado para servir como el enlace soberano entre Agentes de IA y la web global. 
 <ul>
   <li><b>Privacidad Absoluta:</b> Arquitectura <i>zero-logs</i> y proxificación activa.</li>
@@ -36,9 +40,17 @@ Nuestro metabuscador estrella. Un sistema ágil, privado y 100% nativo para Wind
 </ul>
 
 #### 📦 mikuBot Dashboard *(Desarrollo Interno)*
+<div align="center">
+  <img src="../assets/mBDashboard.gif" alt="mikuBot Dashboard Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
+</div>
+<br/>
 Un agente y asistente de IA dirigido al público general. Su principal fortaleza es que integra **searXena** de forma nativa para llevar a cabo búsquedas y descubrimiento de información con total privacidad y alta eficiencia.
 
 #### ⚡ mikuBot Agent-Interpreter IDE *(Próximamente)*
+<div align="center">
+  <img src="../assets/mBAI-IDE.gif" alt="mikuBot Agent-Interpreter IDE Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
+</div>
+<br/>
 Un IDE minimalista con un diseño moderno y amigable que integra nuestra funcionalidad única "Agente-Intérprete". Diseñado para convertir cualquier Chatbot web (Gemini, ChatGPT, Grok, etc.) en un agente editor de código local. 
 <ul>
   <li><b>Esquema de Puente:</b> El usuario instruye al modelo web sobre su rol mediante un sencillo <i>prompt</i>.</li>
