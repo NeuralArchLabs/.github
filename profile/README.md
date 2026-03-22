@@ -20,15 +20,19 @@
 
 <br/>
 
-### 🏛️ Sobre el Laboratorio
+## 🏛️ Sobre el Laboratorio
 
 En **Neural Arch Labs**, rechazamos la tecnología genérica. Creemos en la **ingeniería de autor**: soluciones diseñadas con carácter y una soberanía técnica innegociable. No construimos herramientas frías; diseñamos infraestructura digital que respeta la privacidad y la identidad del usuario en la era de la IA.
 
 ---
 
-### 🚀 Desarrollo Activo y Proyectos Internos
+## 🚀 Desarrollo Activo y Proyectos Internos
 
-#### [🔍 searXena](https://github.com/NeuralArchLabs/searXena)
+<br/>
+
+### [🔍 searXena](https://github.com/NeuralArchLabs/searXena)
+> **ESTADO:** `Lanzamiento Público` | **ENTORNO:** `Windows Nativo`
+
 <div align="center">
   <img src="../assets/searXena.gif" alt="searXena Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
 </div>
@@ -39,27 +43,43 @@ Nuestro metabuscador estrella. Un sistema ágil, privado y 100% nativo para Wind
   <li><b>Ejecución Directa:</b> Interacción instantánea, sin depender de nubes ajenas.</li>
 </ul>
 
-#### 📦 mikuBot Dashboard *(Desarrollo Interno)*
+---
+
+### 📦 mikuBot Dashboard 
+> **ESTADO:** `Desarrollo Interno` | **ENTORNO:** `Windows (Electron)`
+
 <div align="center">
   <img src="../assets/mBDashboard.gif" alt="mikuBot Dashboard Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
 </div>
 <br/>
-Un agente y asistente de IA dirigido al público general. Su principal fortaleza es que integra **searXena** de forma nativa para llevar a cabo búsquedas y descubrimiento de información con total privacidad y alta eficiencia.
-
-#### ⚡ mikuBot Agent-Interpreter IDE *(Próximamente)*
-<div align="center">
-  <img src="../assets/mBAI-IDE.gif" alt="mikuBot Agent-Interpreter IDE Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
-</div>
-<br/>
-Un IDE minimalista con un diseño moderno y amigable que integra nuestra funcionalidad única "Agente-Intérprete". Diseñado para convertir cualquier Chatbot web (Gemini, ChatGPT, Grok, etc.) en un agente editor de código local. 
+Un agente y asistente de IA dirigido al público general. Diseñado como una alternativa amigable, de fácil instalación y uso frente a herramientas más complejas como OpenClaw, ideal para usuarios que no tienen un alto conocimiento técnico.
 <ul>
-  <li><b>Esquema de Puente:</b> El usuario instruye al modelo web sobre su rol mediante un sencillo <i>prompt</i>.</li>
-  <li><b>Ejecución Ágil:</b> Una vez en personaje, el modelo emite <code>tool_calls</code> en formato JSON. El usuario los copia al IDE, donde el agente-intérprete los captura y ejecuta localmente tras la aprobación del usuario, creando un flujo de trabajo intuitivo y sin fricciones.</li>
+  <li><b>Autonomía y Modos de Operación:</b> Cuenta con un <b>Modo Chat</b> y un <b>Modo Agente</b> enfocados en diferentes tipos de asistencia, pero ambos con ejecución nativa de herramientas en el sistema. Puedes elegir entre un modo <i>completamente autónomo</i>, un <i>modo seguro</i> (requiere autorización previa a la ejecución), y la creación de <b>tareas programadas</b> para autonomía total.</li>
+  <li><b>Librería de Contexto:</b> Un módulo que permite crear, almacenar y tener disponibles protocolos y documentos para referenciarlos, revisarlos, mejorarlos o aplicarlos con el asistente en cualquier momento.</li>
+  <li><b>Voz y Conectividad 24/7:</b> Incluye reconocimiento de voz nativo <i>out of the box</i> (vía Vosk) en inglés y español para dictado y reconocimiento de mensajes. Además, permite vincularse fácilmente con Telegram (vía BotFather) para operar 24/7 y mantener una comunicación permanente y eficiente.</li>
+  <li><b>Portabilidad y Respaldo:</b> Permite el volcado completo de memoria en un archivo comprimido para respaldar todo tu asistente, incluyendo sesiones, personalizaciones, memoria, <i>skills</i> y claves de acceso.</li>
+  <li><b>Enfoque Windows-First:</b> Programado en Electron para escalabilidad, pero enfocado 100% en Windows para una perfecta integración nativa con <b>searXena</b>, sin planes a corto plazo para ser porteado a otros sistemas.</li>
 </ul>
 
 ---
 
-### 🛸 Nuestra Filosofía Operativa
+### ⚡ mikuBot Agent-Interpreter IDE
+> **ESTADO:** `Próximamente` | **ENTORNO:** `Windows (Electron)`
+
+<div align="center">
+  <img src="../assets/mBAI-IDE.gif" alt="mikuBot Agent-Interpreter IDE Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
+</div>
+<br/>
+Un IDE minimalista con una interfaz increíblemente amigable e intuitiva, excelente para personas con poco o nulo conocimiento técnico. Permite a cualquier usuario crear aplicaciones de grado profesional en un entorno IDE utilizando únicamente chatbots gratuitos (Gemini, ChatGPT, Grok, etc.).
+<ul>
+  <li><b>Esquema de Puente:</b> El usuario instruye al modelo web sobre su rol mediante un sencillo <i>prompt</i> de copiar y pegar.</li>
+  <li><b>Ejecución Ágil:</b> Una vez en personaje, el modelo emite <code>tool_calls</code> en formato JSON. El agente-intérprete los captura y ejecuta localmente de forma ágil e intuitiva tras la aprobación del usuario.</li>
+  <li><b>La Mejor Alternativa sin Cuotas:</b> Es la excelente opción de respaldo para continuar trabajando en código cuando las cuotas de agentes de pago como Antigravity, Claude Code o Copilot se agotan.</li>
+</ul>
+
+---
+
+## 🛸 Nuestra Filosofía Operativa
 <ul>
   <li><b>Soberanía Local:</b> El poder reside en el hardware del usuario.</li>
   <li><b>Alma en el Código:</b> Cada línea tiene una intención técnica. Buscamos la eficiencia y la estabilidad.</li>
@@ -68,7 +88,7 @@ Un IDE minimalista con un diseño moderno y amigable que integra nuestra funcion
 
 ---
 
-### 🤝 Contacto y Proyectos
+## 🤝 Contacto y Proyectos
 
 Aunque nuestro laboratorio mantiene un ciclo de desarrollo interno cerrado, siempre estamos dispuestos a escuchar buenas ideas. 
 
