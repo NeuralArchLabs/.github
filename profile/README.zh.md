@@ -29,6 +29,10 @@
 ### 🚀 活跃开发与内部项目 (Active Development)
 
 #### [🔍 searXena](https://github.com/NeuralArchLabs/searXena)
+<div align="center">
+  <img src="../assets/searXena.gif" alt="searXena Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
+</div>
+<br/>
 我们的旗舰元搜索引擎。一个敏捷、私密且100%原生的Windows系统。旨在作为AI代理与全球网络之间的主权纽带。
 <ul>
   <li><b>绝对隐私：</b> <i>无日志 (Zero-logs)</i> 架构和主动代理。</li>
@@ -36,9 +40,17 @@
 </ul>
 
 #### 📦 mikuBot Dashboard *(内部开发)*
+<div align="center">
+  <img src="../assets/mBDashboard.gif" alt="mikuBot Dashboard Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
+</div>
+<br/>
 面向公众的AI代理和助手。它原生集成了 **searXena**，可提供完全隐私的高级搜索和发现功能。
 
 #### ⚡ mikuBot Agent-Interpreter IDE *(即将推出)*
+<div align="center">
+  <img src="../assets/mBAI-IDE.gif" alt="mikuBot Agent-Interpreter IDE Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
+</div>
+<br/>
 具有现代且友好设计的极简主义IDE，集成了我们独特的“代理-解释器 (Agent-Interpreter)”功能。它将任何网络聊天机器人（Gemini, ChatGPT, Grok等）转变为本地代码编辑器代理。
 <ul>
   <li><b>桥梁架构：</b> 用户通过简单的复制粘贴提示词来指导网络模型扮演其角色。</li>
