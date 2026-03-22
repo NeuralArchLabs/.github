@@ -22,7 +22,7 @@
 
 ## 🏛️ About the Lab
 
-At **Neural Arch Labs**, we reject generic technology. We believe in **signature engineering**: solutions designed with character and non-negotiable technical sovereignty. We don't build cold tools; we design digital infrastructure that respects user privacy and identity in the AI era.
+Founded by Jaime Martínez to explore AI-driven software development and the integration of local Large Language Models (LLMs), at **Neural Arch Labs** we reject generic technology. We believe in **signature engineering**: solutions designed with character and non-negotiable technical sovereignty to give absolute control back to the user. We don't build cold tools; we design digital infrastructure that respects privacy and identity in the AI era.
 
 ---
 
@@ -97,7 +97,7 @@ If you are interested in our technological approach and want to **work with us o
 <br/>
 
 <div align="center">
-  <p><code>[ NEURAL_ARCH_LABS // EST. 2026 // KERNEL_LEVEL ]</code></p>
+  <p><code>[ NEURAL_ARCH_LABS // EST. 2026 ]</code></p>
   <a href="https://github.com/NeuralArchLabs/searXena">
     <img src="https://img.shields.io/github/stars/NeuralArchLabs/searXena?style=social" />
   </a>
