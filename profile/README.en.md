@@ -29,6 +29,10 @@ At **Neural Arch Labs**, we reject generic technology. We believe in **signature
 ### 🚀 Active Development & Internal Projects
 
 #### [🔍 searXena](https://github.com/NeuralArchLabs/searXena)
+<div align="center">
+  <img src="../assets/searXena.gif" alt="searXena Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
+</div>
+<br/>
 Our flagship metasearch engine. An agile, private, and 100% native Windows system. Developed to serve as the sovereign link between AI Agents and the global web.
 <ul>
   <li><b>Absolute Privacy:</b> <i>Zero-logs</i> architecture and active proxification.</li>
@@ -36,9 +40,17 @@ Our flagship metasearch engine. An agile, private, and 100% native Windows syste
 </ul>
 
 #### 📦 mikuBot Dashboard *(Internal Development)*
+<div align="center">
+  <img src="../assets/mBDashboard.gif" alt="mikuBot Dashboard Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
+</div>
+<br/>
 An AI agent and assistant aimed at the general public. It natively integrates **searXena** for advanced search and discovery with complete privacy.
 
 #### ⚡ mikuBot Agent-Interpreter IDE *(Coming Soon)*
+<div align="center">
+  <img src="../assets/mBAI-IDE.gif" alt="mikuBot Agent-Interpreter IDE Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
+</div>
+<br/>
 A minimalist IDE with a modern, user-friendly design featuring our unique "Agent-Interpreter" functionality. It turns any web Chatbot (Gemini, ChatGPT, Grok, etc.) into a local code editor agent.
 <ul>
   <li><b>Bridge Architecture:</b> The user instructs the web model about its role using a simple copy-paste prompt.</li>
