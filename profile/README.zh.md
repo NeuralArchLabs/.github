@@ -20,15 +20,19 @@
 
 <br/>
 
-### 🏛️ 关于实验室 (About the Lab)
+## 🏛️ 关于实验室 (About the Lab)
 
 在 **Neural Arch Labs**，我们拒绝平庸的技术。我们坚信**署名工程 (Signature Engineering)**：以个性化和不可妥协的技术主权设计的解决方案。我们不制造冰冷的工具；我们设计在AI时代尊重用户隐私和身份的数字基础设施。
 
 ---
 
-### 🚀 活跃开发与内部项目 (Active Development)
+## 🚀 活跃开发与内部项目 (Active Development)
 
-#### [🔍 searXena](https://github.com/NeuralArchLabs/searXena)
+<br/>
+
+### [🔍 searXena](https://github.com/NeuralArchLabs/searXena)
+> **状态 (STATUS):** `公开发布 (Public)` | **环境 (ENVIRONMENT):** `原生 Windows`
+
 <div align="center">
   <img src="../assets/searXena.gif" alt="searXena Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
 </div>
@@ -39,27 +43,43 @@
   <li><b>直接执行：</b> 即时交互，不依赖第三方云。</li>
 </ul>
 
-#### 📦 mikuBot Dashboard *(内部开发)*
+---
+
+### 📦 mikuBot Dashboard
+> **状态 (STATUS):** `内部开发 (Internal)` | **环境 (ENVIRONMENT):** `Windows (Electron)`
+
 <div align="center">
   <img src="../assets/mBDashboard.gif" alt="mikuBot Dashboard Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
 </div>
 <br/>
-面向公众的AI代理和助手。它原生集成了 **searXena**，可提供完全隐私的高级搜索和发现功能。
-
-#### ⚡ mikuBot Agent-Interpreter IDE *(即将推出)*
-<div align="center">
-  <img src="../assets/mBAI-IDE.gif" alt="mikuBot Agent-Interpreter IDE Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
-</div>
-<br/>
-具有现代且友好设计的极简主义IDE，集成了我们独特的“代理-解释器 (Agent-Interpreter)”功能。它将任何网络聊天机器人（Gemini, ChatGPT, Grok等）转变为本地代码编辑器代理。
+面向公众的AI代理和助手。它被设计为复杂工具（如OpenClaw）的友好且易于安装的替代方案，非常适合非技术背景的用户。
 <ul>
-  <li><b>桥梁架构：</b> 用户通过简单的复制粘贴提示词来指导网络模型扮演其角色。</li>
-  <li><b>敏捷执行：</b> 模型以JSON格式发出 <code>tool_calls</code>。用户将其复制到IDE中，代理-解释器在用户批准后捕获并在本地执行它们，创造了直观的工作流。</li>
+  <li><b>自主性与操作模式：</b> 具有专注于不同类型协助的 <b>聊天模式 (Chat Mode)</b> 和 <b>代理模式 (Agent Mode)</b>，两者均在系统中进行原生工具执行。您可以选择 <i>完全自主模式</i>、<i>安全模式</i>（执行前需要用户授权）或创建 <b>定时任务 (Scheduled Tasks)</b> 以实现完全自主。</li>
+  <li><b>上下文库 (Context Library)：</b> 一个允许创建、存储和访问协议及文档的模块，方便助手随时参考、审查、改进或应用。</li>
+  <li><b>语音与 24/7 连接：</b> 开箱即用，包含（通过Vosk实现的）英语和西班牙语原生语音识别，用于语音听写和消息。它可轻松与Telegram（通过BotFather）链接，实现全天候运行并保持永久、高效的沟通渠道。</li>
+  <li><b>便携性与备份：</b> 允许将完整内存转储到压缩文件中，以备份您的整个助手，包括会话、个性化设置、记忆、<i>技能 (skills)</i> 和访问密钥。</li>
+  <li><b>Windows 优先战略：</b> 使用Electron开发以确保可扩展性，但目前100%专注于Windows以确保与 <b>searXena</b> 的完美原生集成，短期内没有移植到其他系统的计划。</li>
 </ul>
 
 ---
 
-### 🛸 我们的运营理念 (Operating Philosophy)
+### ⚡ mikuBot Agent-Interpreter IDE
+> **状态 (STATUS):** `即将推出 (Coming Soon)` | **环境 (ENVIRONMENT):** `Windows (Electron)`
+
+<div align="center">
+  <img src="../assets/mBAI-IDE.gif" alt="mikuBot Agent-Interpreter IDE Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
+</div>
+<br/>
+具有极其友好直观界面的极简主义IDE，非常适合几乎或完全没有技术背景的人士。它允许任何用户仅使用免费的网络聊天机器人（Gemini, ChatGPT, Grok等）在IDE环境中创建专业级应用程序。
+<ul>
+  <li><b>桥梁架构：</b> 用户通过简单的复制粘贴提示词来指导网络模型扮演其角色。</li>
+  <li><b>敏捷执行：</b> 模型以JSON格式发出 <code>tool_calls</code>。代理-解释器在用户批准后灵活地捕获并在本地执行它们。</li>
+  <li><b>最佳的无配额替代方案：</b> 当Antigravity、Claude Code或GitHub Copilot等付费代理的配额耗尽时，这是继续进行代码编写的完美备用选项。</li>
+</ul>
+
+---
+
+## 🛸 我们的运营理念 (Operating Philosophy)
 <ul>
   <li><b>本地主权：</b> 力量源于用户的硬件。</li>
   <li><b>代码之魂：</b> 每一行代码都有其技术意图。我们追求效率和稳定性。</li>
@@ -68,7 +88,7 @@
 
 ---
 
-### 🤝 联系与项目 (Contact & Projects)
+## 🤝 联系与项目 (Contact & Projects)
 
 尽管我们的实验室保持闭环的内部开发周期，但我们始终愿意倾听好想法。
 
