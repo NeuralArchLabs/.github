@@ -22,84 +22,78 @@
 
 ## 🏛️ About the Lab
 
-Founded by Jaime Martínez to explore AI-driven software development and the integration of local Large Language Models (LLMs), at **Neural Arch Labs** we reject generic technology. We believe in **signature engineering**: solutions designed with character and non-negotiable technical sovereignty to give absolute control back to the user. We don't build cold tools; we design digital infrastructure that respects privacy and identity in the AI era.
+Founded by Jaime Martínez to redefine AI-driven software. At **Neural Arch Labs**, we reject generic, opaque technology. We build **signature engineering**: solutions with character, native performance, and non-negotiable technical sovereignty. We design digital infrastructure that respects your privacy and returns absolute control to the user in the AI era.
 
 ---
 
-## 🚀 Active Development & Internal Projects
+## 🚀 Infrastructure Ecosystem
 
+### [📦 MikuBot (Agentic Execution Environment)](https://github.com/NeuralArchLabs/mikuBot)
+> **STATUS:** `Public Release (v2.3.0)` | **ENVIRONMENT:** `Windows Native (.exe)`
+
+<div align="center">
+  <img src="../assets/mBDashboard.gif" alt="mikuBot Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
+</div>
 <br/>
 
-### [🔍 searXena](https://github.com/NeuralArchLabs/searXena)
-> **STATUS:** `Public Release` | **ENVIRONMENT:** `Native Windows`
+The definitive standard for local desktop autonomy and the **unrivaled alternative to OpenClaw on Windows**. It eliminates the need for heavy Linux subsystems (WSL2/Docker) by delivering a premium GUI and frictionless control.
+
+*   **Anti-Black Box:** Absolute observability. Inspect the model's reasoning and every executed prompt in real-time.
+*   **Powered by searXena:** Deep integration with our metasearch engine for precise, updated, and sovereign results—no AI guesswork.
+*   **Performance & Security:** Native execution with `SafePathResolver`, mitigating risks and blocking malicious executions instantly.
+*   **Linguistic Sovereignty:** Absolute feature parity in Spanish, English, and Chinese.
+
+---
+
+### [🔍 searXena (Metasearch Engine)](https://github.com/NeuralArchLabs/searXena)
+> **STATUS:** `Public Release` | **ENVIRONMENT:** `Windows Native`
 
 <div align="center">
   <img src="../assets/searXena.gif" alt="searXena Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
 </div>
 <br/>
-Our flagship metasearch engine. An agile, private, and 100% native Windows system. Developed to serve as the sovereign link between AI Agents and the global web.
-<ul>
-  <li><b>Absolute Privacy:</b> <i>Zero-logs</i> architecture and active proxification.</li>
-  <li><b>Direct Execution:</b> Instant interaction, without relying on third-party clouds.</li>
-</ul>
 
----
+AI’s private window to the web. A fast, hermetic, and 100% native metasearch engine for Windows.
 
-### 📦 mikuBot Dashboard
-> **STATUS:** `Internal Development` | **ENVIRONMENT:** `Windows (Electron)`
-
-<div align="center">
-  <img src="../assets/mBDashboard.gif" alt="mikuBot Dashboard Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
-</div>
-<br/>
-An AI agent and assistant aimed at the general public. Designed as a friendly, easy-to-install alternative to complex tools like OpenClaw, making it ideal for non-tech-savvy users.
-<ul>
-  <li><b>Guided Onboarding & Deep Personalization:</b> Features a step-by-step initial setup process. From day one, you can feed the assistant all the information you want it to know about you, achieving absolute personalization so it understands your exact context, needs, and how to help you in a highly specific way.</li>
-  <li><b>Autonomy & Operating Modes:</b> Features a <b>Chat Mode</b> and an <b>Agent Mode</b> tailored for different types of assistance, both with native system tool execution. Choose between a <i>fully autonomous mode</i>, a <i>safe mode</i> (requires user authorization before execution), and the creation of <b>scheduled tasks</b> for complete autonomy.</li>
-  <li><b>Context Library:</b> A module to create, store, and access protocols and documents, making them readily available to reference, review, improve, or apply with the assistant at any time.</li>
-  <li><b>Voice & 24/7 Connectivity:</b> Includes native voice recognition <i>out of the box</i> (via Vosk) in English and Spanish for voice dictation and messages. It easily links with Telegram (via BotFather) to run 24/7 and maintain a permanent, efficient communication channel.</li>
-  <li><b>Portability & Backup:</b> Allows a complete memory dump into a compressed file to back up your entire assistant, including sessions, personalizations, memory, <i>skills</i>, and access keys.</li>
-  <li><b>Windows-First Focus:</b> Built with Electron for scalability, but currently focused 100% on Windows for seamless native integration with <b>searXena</b>, with no short-term plans for other OS ports.</li>
-</ul>
+*   **Absolute Privacy:** Zero-logs architecture and dynamic proxification.
+*   **Agentic API:** Specifically designed to be injected as a tool into any commercial or local LLM.
 
 ---
 
 ### ⚡ mikuBot Agent-Interpreter IDE
-> **STATUS:** `Coming Soon` | **ENVIRONMENT:** `Windows (Electron)`
+> **STATUS:** `Test Flight` | **ENVIRONMENT:** `Windows (Electron)`
 
 <div align="center">
   <img src="../assets/mBAI-IDE.gif" alt="mikuBot Agent-Interpreter IDE Preview" width="100%" style="max-width: 600px; border-radius: 8px;" />
 </div>
 <br/>
-A minimalist IDE with an incredibly friendly and intuitive interface, excellent for people with little to no technical knowledge. It empowers anyone to build professional-grade applications in an IDE environment using only free web chatbots (Gemini, ChatGPT, Grok, etc.).
-<ul>
-  <li><b>Bridge Architecture:</b> The user instructs the web model about its role using a simple copy-paste prompt.</li>
-  <li><b>Agile Execution:</b> The model emits <code>tool_calls</code> in JSON format. The agent-interpreter agilely captures and executes them locally upon user approval.</li>
-  <li><b>The Best Quota-Free Alternative:</b> The perfect backup option to keep coding seamlessly when you run out of usage quotas for paid agents like Antigravity, Claude Code, or GitHub Copilot.</li>
-</ul>
+
+Democratizing software engineering. A minimalist IDE that transforms free chatbots (Gemini, ChatGPT, Grok) into local development agents by executing their `tool_calls` directly on your machine. The ultimate fallback when commercial service quotas run out.
 
 ---
 
-## 🛸 Our Operating Philosophy
-<ul>
-  <li><b>Local Sovereignty:</b> The power resides in the user's hardware.</li>
-  <li><b>Soul in the Code:</b> Every line has a technical intention. We strive for efficiency and stability.</li>
-  <li><b>Independent Ecosystem:</b> We operate hermetically to preserve the purity of our vision. <b>We are not open to external contributions to the codebase at the moment, but we keep our code open for review.</b></li>
-</ul>
+## 🛸 Our Philosophy
+
+*   💻 **Local Sovereignty:** Computational and intellectual power belongs to the user’s hardware.
+*   👁️ **Total Transparency:** We break the black box of commercial AI. Code and reasoning must be auditable.
+*   🛡️ **Independent Ecosystem:** Open source for true scrutiny, developed under a closed and focused design vision.
 
 ---
 
-## 🤝 Contact and Projects
+## 🤝 Contact
 
-Although our lab maintains a closed internal development cycle, we are always willing to listen to good ideas.
-
-If you are interested in our technological approach and want to **work with us or propose a project**, send us a direct message through our official profile to chat about it.
-
-<br/>
+While we maintain a closed internal development cycle, we always listen to good ideas. If you share our vision and seek to collaborate on projects that challenge AI standards, send us a direct message.
 
 <div align="center">
+  <br/>
   <p><code>[ NEURAL_ARCH_LABS // EST. 2026 ]</code></p>
-  <a href="https://github.com/NeuralArchLabs/searXena">
-    <img src="https://img.shields.io/github/stars/NeuralArchLabs/searXena?style=social" />
-  </a>
+  <p>
+    <a href="https://github.com/NeuralArchLabs/mikuBot">
+      <img src="https://img.shields.io/github/stars/NeuralArchLabs/mikuBot?style=social&label=Star%20MikuBot" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/NeuralArchLabs/searXena">
+      <img src="https://img.shields.io/github/stars/NeuralArchLabs/searXena?style=social&label=Star%20searXena" />
+    </a>
+  </p>
 </div>
